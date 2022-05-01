@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right,#072644,slategray,#072c51);
+    color: black;
+}
+#line{
+    width: 1410px;
+    height: 5px;
+    margin-left: 50px;
+    background-color: black;
+    box-shadow: 2px 2px 2px white;
+}
+#btn{
+    margin-left: 700px;
+    padding-top:10px;
+    
+}
