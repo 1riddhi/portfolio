@@ -5,21 +5,21 @@ body{
     width: 1410px;
     height: 5px;
     margin-left: 50px;
-    background-color:rgb(146, 36, 56);
+    background-color:rgb(255, 255, 255);
 }
 #lastline1{
     width: 1410px;
     height: 5px;
     margin-top:1500px;
     margin-left: 50px;
-    background-color:rgb(146, 36, 56);
+    background-color:rgb(10, 10, 10);
 }
 #lastline2{
     width: 1410px;
     height: 5px;
     margin-top:10px;
     margin-left: 50px;
-    background-color: rgb(146, 36, 56);
+    background-color: rgb(18, 17, 17);
 }
 #line1{
     width: 510px;
