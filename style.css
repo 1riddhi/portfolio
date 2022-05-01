@@ -1,6 +1,6 @@
 body{
     background-color: rgb(212, 160, 102);
-    background-repeat: no-repeat;
+ 
 }
 header {
     padding: 40px;
@@ -55,6 +55,7 @@ nav a:hover{
     float: left;
     box-shadow: 5px 5px 5px 5px black;
     background-image: url(./riddhi.jpeg);
+    background-repeat: no-repeat;
     flex-wrap: nowrap;
 }
 .help{
